@@ -1,4 +1,4 @@
-package SampleServer;
+package main.java;
 
 import com.sun.net.httpserver.HttpServer;
 
